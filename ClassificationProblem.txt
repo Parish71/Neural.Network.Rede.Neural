@@ -1,0 +1,7 @@
+PROBLEM
+Neural Network for Simple Classification Problem
+
+Problem Statement:
+This Python script demonstrates the use of a simple neural network to solve a binary classification problem. 
+The goal is to classify a given input into one of two classes: "baixo" (low) or "alto" (high) 
+Based on the output of a neuron with a tanh activation function.
